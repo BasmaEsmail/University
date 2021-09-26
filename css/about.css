@@ -1,0 +1,36 @@
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.5) , rgba(0,0,0,0.5)),url(../img/p1.jpg);
+    color: white;
+    background-size:cover;
+    
+}
+.navbar{
+    height: 70px;
+}
+.container{
+    margin-top: 10px;
+}
+.mv{
+    margin-left: 40%;
+}
+h1{
+    margin-left: 410px; 
+}
+.mi,.vi{
+    background-color:rgb(0,0,0,0.8);
+    padding: 20px;
+    border-radius: 30px;
+}
+.hv{
+  margin-left:420px;  
+}
+
+footer{
+    height: 40px;
+    background-color:#007bff;
+    text-align: center;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}

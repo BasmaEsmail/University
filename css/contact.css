@@ -1,0 +1,30 @@
+body{
+    background-image: url(../img/cont.PNG);
+    
+}
+.navbar{
+    height: 70px;
+}
+.container{
+    margin-top: 40px;
+}
+ul{
+    list-style-type: none;
+}
+.container li{
+    display: inline;
+    font-size: 20;
+    margin :30px;
+}
+.item{
+    margin: 10px;
+}
+footer{
+    height: 40px;
+    background-color:#007bff;
+    text-align: center;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}

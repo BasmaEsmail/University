@@ -1,0 +1,22 @@
+.navbar{
+    height: 70px;
+}
+.navColor{
+    background-color: #dceff5;
+}
+a{
+   color: #3c3c46
+}
+.news{
+    text-align: center;
+
+}
+.card-deck{
+    margin-bottom: 30px;
+}
+footer{
+    height: 40px;
+    background-color:#007bff;
+    text-align: center;
+    color: white;
+}
